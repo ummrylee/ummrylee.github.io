@@ -5099,6 +5099,7 @@ input, select, textarea {
 				.spotlight.style2 .image {
 					width: 18.375rem;
 					height: 18.375rem;
+					object-fit: cover;
 				}
 
 		}
@@ -6877,6 +6878,7 @@ input, select, textarea {
 				width: 100%;
 				border-radius: 0;
 			}
+
 
 				.gallery.style2 article .image img {
 					display: block;
